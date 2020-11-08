@@ -1,6 +1,6 @@
 id:
   providerName: admin
-  apiName: SampleStoreAPI
+  apiName: SamplePestStoreAPI
   version: 1.0.0
 description: This is a sample server online store
 type: HTTP
